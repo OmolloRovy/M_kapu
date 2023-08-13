@@ -1,5 +1,5 @@
 import './App.css';
-import Logo from '../../assets/data.png'
+import Logo from '../../assets/data.pn
 import {Cart, List} from "./pages";
 
 function App() {
