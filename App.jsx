@@ -1,5 +1,4 @@
 import './App.css';
-
 import {Cart, List} from "./pages";
 
 function App() {
