@@ -20,7 +20,7 @@ export default App;
 //app.jsx general structure 
 
 
-
+/*
 
 
 function App (){
@@ -30,3 +30,4 @@ return(
   )
 }
 export default App
+*/
