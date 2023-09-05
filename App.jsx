@@ -17,11 +17,11 @@ export default App;
 
 
 
+//app.jsx general structure 
 
 
 
 
-/*
 
 function App (){
 
