@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "author": "Omo
+  "author": "Omollo Vani
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
