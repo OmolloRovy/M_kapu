@@ -1,6 +1,6 @@
 import "./footer.css";
 import ".main.jsx";
-import path=
+import path 
 
 function Footer(){
 
