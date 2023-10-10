@@ -3,6 +3,7 @@ import ".main.jsx";
 
 function Footer(){
 
+  
 }
 
 export default Footer;
