@@ -1,5 +1,5 @@
 import "./footer.css";
-import ".main.jsx"
+import ".main.jsx";
 
 function Footer(){
 
