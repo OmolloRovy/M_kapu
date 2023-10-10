@@ -1,4 +1,4 @@
-import "./footer.css"
+import "./footer.css";
 import ".main.jsx"
 
 function Footer(){
